@@ -24,7 +24,7 @@ image = 1
 SCROLL_PAUSE_TIME = 1
 my_set = set()
 
-for i in range(10):
+for i in range(30):
     # Wait to load page
     time.sleep(SCROLL_PAUSE_TIME)
     try:
